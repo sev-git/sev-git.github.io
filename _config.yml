@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Trouve ton artisan"
-description:	       "Et profite des circuits courts :o)"
+description:	       "Et profite des circuits courts"
 author:              "Séverine Dargein"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
