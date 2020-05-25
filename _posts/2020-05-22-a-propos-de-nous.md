@@ -4,7 +4,7 @@ title: "À propos de nous"
 author: "Séverine"
 categories: facts
 tags: [presentation]
-image: cuba-4.jpg
+image: happy-bunch.png
 ---
 
 Coucou c'est nous !
