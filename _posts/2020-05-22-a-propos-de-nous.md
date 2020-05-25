@@ -4,7 +4,7 @@ title: "À propos de nous"
 author: "Séverine"
 categories: facts
 tags: [presentation]
-image: happy-bunch.png
+image: undraw_team_spirit_hrr4.svg
 ---
 
 Coucou c'est nous !
